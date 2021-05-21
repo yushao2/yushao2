@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/yushao2/yushao2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=yushao2&theme=dark" />
 </a>
-<a href="https://github.com/yushao2/yushao2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yushao2&theme=dark" />
-</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
